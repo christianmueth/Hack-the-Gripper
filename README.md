@@ -3,7 +3,7 @@ Hack is a robotic arm that grabs objects on a pick, which adhere via flex-tape. 
 Electronics are housed in a large tin soup can, which is zip-tied to a dumbbell.
 
 IMAGE:
-![20220123_222936](https://user-images.githubusercontent.com/59476460/157579057-6c95d48a-a03b-4cec-89d6-7ee1c8cb2d1f.jpg)
+![20220123_222936](https://user-images.githubusercontent.com/59476460/157579237-369f0f56-73ac-4022-82d9-894790d42274.jpg)
 
 VIDEO:
 https://drive.google.com/file/d/1626z555E2ByLrrTrDwOG1--Lo0ykDj61/view?usp=sharing
